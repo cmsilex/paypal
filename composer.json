@@ -1,0 +1,11 @@
+{
+    "name": "cmsilex/paypal",
+    "description": "Paypal Service Provider for Silex",
+    "authors": [
+        {
+            "name": "Leigh Murray",
+            "email": "leighmurray@cmsilex.com"
+        }
+    ],
+    "require": {}
+}
